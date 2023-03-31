@@ -1,0 +1,17 @@
+{
+  "name": "tokenserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TokenServer.js",
+  "scripts": {
+    "start": "node TokenServer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "serve-favicon": "^2.5.0"
+  }
+}
